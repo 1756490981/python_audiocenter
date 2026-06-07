@@ -1,4 +1,8 @@
 # AudioCenter - AI制作
+因为本人不太懂 刚才检查了下 这个项目缺少文件 但是因为文件太大上传不了
+如果需要去用这套源码
+我上传成品中手动去提取下AudioHelper.exe这个文件然后进行手动补齐
+因为成品包含这个 AudioHelper.exe这个程序
 
 Windows 音频控制面板，基于 Python + customtkinter 构建。
 
